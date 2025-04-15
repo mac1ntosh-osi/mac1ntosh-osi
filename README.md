@@ -21,7 +21,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://sun9-55.userapi.com/impg/A4kn2hBuYSm-FiHXKfuQc20cd3fuDrGytUzlVQ/I_B9kXrpb5w.jpg?size=1174x904&quality=95&sign=40e923b5ce28366a978185b694b70d19&c_uniq_tag=5h5VooDid_umD4UeiEN17nooufBLxbEPJRcGOwteYOw&type=album" width="400" height="280" />
   
 **Languages and Tools:**  
 
